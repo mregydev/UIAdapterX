@@ -1,5 +1,5 @@
 import React, { Fragment } from 'react';
-import { ButtonProps } from '../Props/ButtonProps';
+import { ButtonProps } from '../ComponentProps/ButtonProps';
 import Button from 'react-bootstrap/Button';
 
 const BootstrapButton = ({ text }: ButtonProps) => {

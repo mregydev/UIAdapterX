@@ -1,6 +1,6 @@
 import React, { Fragment } from 'react';
 import Button from "@mui/material/Button";
-import { ButtonProps } from "../Props/ButtonProps";
+import { ButtonProps } from "../ComponentProps/ButtonProps";
 
 const MUIButton = ({ text }: ButtonProps) => {
   return (
