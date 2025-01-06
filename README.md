@@ -1,5 +1,5 @@
 
-# Example for building Flexible UI Component Library with Build-Time Support for Multiple UI Frameworks" 
+# Example for building Flexible UI Component Library with Build-Time Support for Multiple UI Frameworks
 
 
 # Target 
