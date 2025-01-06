@@ -1,3 +1,7 @@
+
+# Example for building Flexible UI Component Library with Build-Time Support for Multiple UI Frameworks" 
+
+
 # Target 
 - Have frontend library that support multiple ui libraries ( like <b> Material UI </b> and <b>React bootstrap</b>) at build time through use of enviroments variables 
 - This project expose simple button componenet that can be created either with react or material ui
